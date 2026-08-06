@@ -25,6 +25,8 @@ linux-bash-practice/
 ├── 05. comparing-numbers.sh
 ├── 06. getting-started-with-conditionals.sh
 ├── 07. triangle-type.sh
+├── 08. looping-with-numbers.sh
+├── 09. arithmetic-expressions.sh
 └── README.md
 ```
 
@@ -40,6 +42,8 @@ linux-bash-practice/
 | `05. comparing-numbers.sh`                 | Compares two integers and displays the appropriate result.                           |
 | `06. getting-started-with-conditionals.sh` | Uses conditional statements to print **YES** or **NO** based on the input character. |
 | `07. triangle-type.sh`                     | Determines whether a triangle is **Equilateral**, **Isosceles**, or **Scalene**.     |
+| `08. looping-with-numbers.sh`              |	Prints the natural numbers from 1 to 50.                                            |
+| `09. arithmetic-expressions.sh`            |	Evaluates arithmetic expressions and prints the result rounded to 3 decimal places. |
 
 ## Technologies Used
 
