@@ -27,6 +27,7 @@ linux-bash-practice/
 ├── 07. triangle-type.sh
 ├── 08. looping-with-numbers.sh
 ├── 09. arithmetic-expressions.sh
+├── 10. compute-the-average.sh
 └── README.md
 ```
 
@@ -44,6 +45,7 @@ linux-bash-practice/
 | `07. triangle-type.sh`                     | Determines whether a triangle is **Equilateral**, **Isosceles**, or **Scalene**.     |
 | `08. looping-with-numbers.sh`              |	Prints the natural numbers from 1 to 50.                                            |
 | `09. arithmetic-expressions.sh`            |	Evaluates arithmetic expressions and prints the result rounded to 3 decimal places. |
+| `10. compute-the-average.sh`               |	Calculates the average of given integers and prints it rounded to 3 decimal places. |
 
 ## Technologies Used
 
