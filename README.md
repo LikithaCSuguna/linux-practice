@@ -28,6 +28,7 @@ linux-bash-practice/
 ├── 18. Concatenate an Array with Itself.sh
 ├── 19. Display an Element of an Array.sh
 ├── 20. Count the Number of Elements in an Array.sh
+├── 21. Lonely Integer.sh
 └── README.md
 ```
 ## Solutions Included
@@ -55,4 +56,4 @@ linux-bash-practice/
 | 18 | `18. Concatenate an Array with Itself.sh`                  | Concatenates an array with itself twice and displays the resulting array.               |
 | 19 | `19. Display an Element of an Array.sh`                    | Displays the element at index **3** of the array.                                       |
 | 20 | `20. Count the Number of Elements in an Array.sh`          | Counts and displays the number of elements in an array.                                 |
-
+| 21 | `21. Lonely Integer.sh`                                    | Finds the integer that occurs only once when all other integers occur in pairs.         |
